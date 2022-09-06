@@ -17,5 +17,5 @@ A főbb pontokon commitolj és pushold fel a változtatásokat. Ezt érdemes min
 Add be a repod linkjét. Figyelj oda, hogy az utolsó commit idejét fogjuk nézni.
 
 # Feladat
-
+as
 Ez a feladat most csak ennyi.
